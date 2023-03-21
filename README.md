@@ -7,4 +7,3 @@ para rodar este projeto em seu computador , e preciso instalar e configurar o Bo
 
 npm install bootstrap@5.3.0-alpha1
 
-'''
