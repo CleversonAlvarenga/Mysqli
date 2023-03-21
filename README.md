@@ -4,6 +4,6 @@ para rodar este projeto em seu computador , e preciso instalar e configurar o Bo
 
 ### instalar via gerenciador de pacotes
 
-
+```
 npm install bootstrap@5.3.0-alpha1
-
+```
